@@ -1,6 +1,6 @@
 # pwnss7
 
-Detect and demonstrate SIGTRAN vulnerabilities.
+Detect and demonstrate SIGTRAN vulnerabilities. Examples of vulnerabilities found using this toolset have been presented at BlackHat USA 2019, [slides here](https://i.blackhat.com/USA-19/Thursday/us-19-Teissier-Mobile-Interconnect-Threats-Up.pdf), or [here](https://github.com/gteissier/mobile-interconnect-threats/blob/master/us-19-Teissier-Mobile-Interconnect-Threats-How-Next-Gen-Products-May-Be-Already-Outdated.pdf).
 
 Named after the venerable Pythonic pwntools, this toolset helps to:
 
